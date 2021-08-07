@@ -1,0 +1,8 @@
+-I/usr/local/include
+-I/Library/Developer/CommandLineTools/usr/include/c++/v1
+-I/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include
+-I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include
+-I/Library/Developer/CommandLineTools/usr/include
+-I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks
+-I/Users/josephthompson/Documents/Documents/CPP_Course/Documents/Investment2
+-std=c++17
